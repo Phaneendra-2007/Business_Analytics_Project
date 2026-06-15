@@ -1,0 +1,61 @@
+BUSINESS ANALYTICS USING R
+
+ABSTRACT
+
+This project performs end-to-end business analytics using R. The analysis includes customer behavior, sales trends, and product performance to generate business insights and support decision-making.
+
+CHAPTER 1: INTRODUCTION
+
+Business analytics uses data analysis techniques to identify patterns, trends, and opportunities for improving business performance.
+
+CHAPTER 2: OBJECTIVES
+
+• Analyze customer behavior
+
+• Identify sales trends
+
+• Evaluate product performance
+
+• Generate business insights
+
+CHAPTER 3: DATASET DESCRIPTION
+
+The dataset contains customer transactions, product information, sales quantity, price, and purchase month.
+
+CHAPTER 4: DATA CLEANING
+
+Missing values were removed and revenue fields were calculated.
+
+CHAPTER 5: DATA ANALYSIS
+
+5.1 Monthly Revenue Analysis
+
+5.2 Product Performance Analysis
+
+5.3 Category Analysis
+
+5.4 Customer Spending Analysis
+
+CHAPTER 6: VISUALIZATIONS
+
+• Monthly Sales Trend
+
+• Top Products
+
+• Revenue by Category
+
+• Customer Spending Analysis
+
+CHAPTER 7: INSIGHTS
+
+• Electronics generated the highest revenue.
+
+• Laptop sales contributed significantly to total revenue.
+
+• Revenue increased steadily over time.
+
+• High-value customers were identified.
+
+CHAPTER 8: CONCLUSION
+
+Business analytics successfully identified sales patterns, customer behavior, and product performance. The insights can support strategic business decisions.
